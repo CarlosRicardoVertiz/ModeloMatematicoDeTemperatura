@@ -42,4 +42,4 @@ title("Modelo matematico de temperatura f(x) = 5/9(x-32)");
 xlabel("ºFahrenheit");
 ylabel("ºCelcius");
 
-%Orgullosamente TESJI 
+%Orgullosamente TESJI <3
